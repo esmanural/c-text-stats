@@ -1,0 +1,3 @@
+Hello World!
+This is a sample text file for testing our C text statistics tool.
+Computer engineering in Warsaw is a great journey.
